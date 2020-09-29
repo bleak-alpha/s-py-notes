@@ -1,1 +1,1 @@
-# s-python-codes
+# Self Taught Python Codes
