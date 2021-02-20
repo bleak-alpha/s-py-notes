@@ -1,1 +1,1 @@
-# Self Taught Python Codes
+# Self Taught Python Notes
