@@ -1,0 +1,2 @@
+This text file checks file handling
+This is second line for whitespace removal check
